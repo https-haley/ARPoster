@@ -20,12 +20,16 @@ An interactive Augmented Reality (AR) experience built in Unity using AR Foundat
 
 # Key Scripts #
 - FruitSpawner
-  - Scans the flyer and spawns the fruit in the correct location
+  - Scans the flyer and spawns the fruit in the correct position
 - Rotate Fruit
   - Applied the rotation animation to the fruit
 - FruitInfo
   - Detects the users touch and triggers the UI updates
+      - Update() detects touch and calls SelectFruit()
+      - SelectFruit() changes the size of the fruit
 - FruitInfoDisplay
   - Controls the UI popup display
+- PopUp
+  - Fruit "popups" from the flyer animation
 
 # Demo #
