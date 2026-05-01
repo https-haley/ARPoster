@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d793c0a376499654aba5de36f10a5404
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - orangePrefab: {fileID: 8891356949463553662, guid: 3c6f9e6fa8dbae643ab086ce9198f564,
+      type: 3}
+  - mangoPrefab: {fileID: 2852923376625615850, guid: a4c4ba8b7b7a99d4f9b205d0077d2dc4,
+      type: 3}
+  - bananaPrefab: {fileID: 7409109456561757994, guid: eda306a2e0935724d96a30fa70e7b1d0,
+      type: 3}
+  - strawberryPrefab: {fileID: 906410617613611352, guid: 68f08d30b944bb247bc54ecbdf04b41d,
+      type: 3}
+  - peachPrefab: {fileID: 8675147515285076103, guid: e128323f709ec59498ffbd7403bab72d,
+      type: 3}
+  - applePrefab: {fileID: 721448579524681104, guid: 63e733d8d71bd3942ba0fbb0ab3c9501,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
