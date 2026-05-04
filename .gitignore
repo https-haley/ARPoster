@@ -13,3 +13,5 @@ UserSettings/
 *.user
 *.userprefs
 *.unityprojAssets/Resources/HuggingFaceAPIConfig.asset
+*.zip
+*.apkAssets/Resources/HuggingFaceAPIConfig.asset
