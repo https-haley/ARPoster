@@ -1,0 +1,24 @@
+<aiml>
+
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            Hi! I'm a grocery store assistant. How can I help you today?
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHERE IS MILK</pattern>
+        <template>
+            Milk is in aisle 5 near the dairy section.
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHERE IS *</pattern>
+        <template>
+            You can find <star/> in aisle 3.
+        </template>
+    </category>
+
+</aiml>
