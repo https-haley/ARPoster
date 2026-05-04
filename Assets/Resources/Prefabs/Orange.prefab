@@ -146,6 +146,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fruitName: Orange
   price: $15
+  healthBenefits: "Excellent source of Vitamin C. Boosts immunity and reduces
+    inflammation. Supports skin health and improves iron absorption. Rich in
+    fiber, potassium, and antioxidants."
 --- !u!135 &-8635594967328595034
 SphereCollider:
   m_ObjectHideFlags: 0

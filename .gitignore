@@ -13,3 +13,7 @@ UserSettings/
 *.user
 *.userprefs
 *.unityproj
+
+*.apk
+*.aab
+HandheldDev_BurstDebugInformation_DoNotShip/

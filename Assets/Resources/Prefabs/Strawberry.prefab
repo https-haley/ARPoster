@@ -146,6 +146,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fruitName: Strawberry
   price: $21
+  healthBenefits: "High in antioxidants and Vitamin C. Supports heart health and
+    regulates blood sugar levels. Anti-inflammatory properties help reduce chronic
+    disease risk. Great for skin and brain health."
 --- !u!135 &-4171513918043014477
 SphereCollider:
   m_ObjectHideFlags: 0

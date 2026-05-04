@@ -146,6 +146,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fruitName: Mango
   price: $16
+  healthBenefits: "Packed with Vitamins A and C. Supports immune function, eye
+    health, and skin glow. Rich in folate, antioxidants, and digestive enzymes
+    that aid gut health."
 --- !u!135 &655817640833525729
 SphereCollider:
   m_ObjectHideFlags: 0

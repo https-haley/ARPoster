@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/FruitDetailScene.unity
+    guid: 7deaeefb96b047f40b979d75f23c956d
+  - enabled: 1
+    path: Assets/Scenes/PandaScene.unity
+    guid: f1e2d3c4b5a6f7e8d9c0b1a2f3e4d5c6
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 7490405d8df761f44b533c86ad7d84f7,
       type: 2}

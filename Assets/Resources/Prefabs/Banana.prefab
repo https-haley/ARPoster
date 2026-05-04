@@ -146,6 +146,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fruitName: Banana
   price: $20
+  healthBenefits: "High in potassium and Vitamin B6. Boosts energy and supports
+    muscle function. Improves mood and promotes digestive health. Natural source
+    of quick energy before exercise."
 --- !u!65 &-7457589517346744593
 BoxCollider:
   m_ObjectHideFlags: 0

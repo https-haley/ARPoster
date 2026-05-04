@@ -146,6 +146,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fruitName: Apple
   price: $20
+  healthBenefits: "Rich in fiber and antioxidants. Supports heart health and reduces
+    the risk of type 2 diabetes. Aids digestion and boosts immunity. Excellent source
+    of Vitamin C and potassium."
 --- !u!135 &8185222349868585053
 SphereCollider:
   m_ObjectHideFlags: 0

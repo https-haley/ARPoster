@@ -153,6 +153,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fruitName: Peach
   price: $12
+  healthBenefits: "Rich in Vitamins A and C. Supports eye health, skin health,
+    and immune function. Good source of fiber and antioxidants. Low in calories
+    and helps reduce inflammation."
 --- !u!114 &-2081897856580703262
 MonoBehaviour:
   m_ObjectHideFlags: 0
