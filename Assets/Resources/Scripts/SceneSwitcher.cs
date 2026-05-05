@@ -12,4 +12,13 @@ public class SceneSwitcher : MonoBehaviour
     {
         SceneManager.LoadScene("main");
     }
+
+    public void QuitApp()
+    {
+        Application.Quit();
+
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+#endif
+    }
 }

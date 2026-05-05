@@ -48,7 +48,17 @@ public class PandaARPlacer : MonoBehaviour
 
         if (pandaObject != null)
         {
-            pandaObject.transform.SetPositionAndRotation(position, rotation);
+            pandaObject.transform.position = position;
+
+            Vector3 directionToCamera = Camera.main.transform.position - pandaObject.transform.position;
+            directionToCamera.y = 0;
+
+            if (directionToCamera.sqrMagnitude > 0.001f)
+            {
+                pandaObject.transform.rotation =
+                    Quaternion.LookRotation(directionToCamera) * Quaternion.Euler(0, 0f, 0);
+            }
+
             pandaObject.SetActive(true);
         }
 

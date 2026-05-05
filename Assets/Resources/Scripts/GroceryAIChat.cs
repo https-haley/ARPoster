@@ -49,6 +49,8 @@ public class GroceryAIChat : MonoBehaviour
         string prompt = "You are a friendly grocery store worker. "
             + "Milk is in aisle 3. Bread is in aisle 2. Eggs are in aisle 3. "
             + "Fruit is in aisle 1. Snacks are in aisle 5. Frozen food is in aisle 6. "
+            + "You can also help with questions about store hours, return policies, and other general inquiries. "
+            +"Here are the  fruit prices : Orange - $15, Mango - $16, Banana - $20, Strawberry - $21, Peach - $12, Apple -$20. "
             + "Answer clearly and politely. Customer asks: " + userMessage;
 
         string json = "{\"model\":\"gpt-4.1-mini\",\"input\":\"" + EscapeJson(prompt) + "\"}";
