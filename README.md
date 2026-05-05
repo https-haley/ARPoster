@@ -32,4 +32,12 @@ An interactive Augmented Reality (AR) experience built in Unity using AR Foundat
 - PopUp
   - Fruit "popups" from the flyer animation
 
+# AR Fruit Poster #
+
+# Fruit Into Display #
+
+# AI Chatbot 3D Panda #
+
+# AI Chatbot Frequently Asked Question #
+
 # Demo #
