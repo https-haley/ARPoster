@@ -9,7 +9,7 @@ using Newtonsoft.Json;
 public class OpenAIManager : MonoBehaviour
 {
     [Header("API Config")]
-    [SerializeField] private string apiKey = "AIzaSyDdNSKHptKr1_DXAr1AEha3VgnM6oEfwks";
+    [SerializeField] private string apiKey = ""; 
 
     private const string MODEL = "gemini-2.5-flash";
     private string API_URL => $"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={apiKey}";
