@@ -32,6 +32,10 @@ An interactive Augmented Reality (AR) experience built in Unity using AR Foundat
 | `GroceryAIChat.cs` | Sends user questions to OpenAI GPT-4.1-mini and returns the response |
 | `VoiceController.cs` | Android STT/TTS bridge via custom .jar plugins |
 
+## Scenes
+- **SampleScene** — main AR scene with poster tracking and fruit interaction
+- **FruitDetailScene** — 2D detail screen showing fruit name, price, and health benefits
+- **PandaScene** — AR scene with the voice-activated AI Panda assistant
 
 # AR Fruit Poster #
 <img width="2304" height="2880" alt="University of Arkansas (1)" src="https://github.com/user-attachments/assets/1b0be79e-9af3-4c98-8db9-3655fe42501c" />
