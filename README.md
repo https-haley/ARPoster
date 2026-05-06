@@ -38,6 +38,4 @@ An interactive Augmented Reality (AR) experience built in Unity using AR Foundat
 
 # AI Chatbot 3D Panda #
 
-# AI Chatbot Frequently Asked Question #
-
 # Demo #
