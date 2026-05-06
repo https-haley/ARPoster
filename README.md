@@ -34,7 +34,8 @@ An interactive Augmented Reality (AR) experience built in Unity using AR Foundat
 
 
 # AR Fruit Poster #
-<img width="1580" height="950" alt="ARPoster_Figure1" src="https://github.com/user-attachments/assets/99b9194e-f3ce-4dd2-9b9e-4bb8e7c4a5a9" />
+<img width="2304" height="2880" alt="University of Arkansas (1)" src="https://github.com/user-attachments/assets/1b0be79e-9af3-4c98-8db9-3655fe42501c" />
+
 
 # Fruit Info Display #
 
