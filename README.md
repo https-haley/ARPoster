@@ -32,6 +32,17 @@ An interactive Augmented Reality (AR) experience built in Unity using AR Foundat
 | `GroceryAIChat.cs` | Sends user questions to OpenAI GPT-4.1-mini and returns the response |
 | `VoiceController.cs` | Android STT/TTS bridge via custom .jar plugins |
 
+## Fruit Data
+
+| Fruit | Price | Key Health Benefits |
+|-------|-------|---------------------|
+| 🍎 Apple | $20 | Rich in fiber and antioxidants, supports heart health |
+| 🍌 Banana | $20 | High in potassium and B6, boosts energy |
+| 🥭 Mango | $16 | Packed with Vitamins A and C, supports immune function |
+| 🍊 Orange | $15 | Excellent source of Vitamin C, reduces inflammation |
+| 🍑 Peach | $12 | Supports eye and skin health, anti-inflammatory |
+| 🍓 Strawberry | $21 | High in antioxidants, supports heart and brain health |
+
 ## Scenes
 - **SampleScene** — main AR scene with poster tracking and fruit interaction
 - **FruitDetailScene** — 2D detail screen showing fruit name, price, and health benefits
@@ -48,5 +59,12 @@ An interactive Augmented Reality (AR) experience built in Unity using AR Foundat
 2. Tap a flat surface to place the Panda in AR space
 3. Press the mic button and ask a grocery-related question
 4. Listen to the Panda's spoken response
+
+## Third-Party Assets & Dependencies
+
+- **Humanoid Panda** — 3D model and animations (idle, talking)
+- **3 Android .jar plugins** — custom speech recognition and text-to-speech bridge
+- **OpenAI GPT-4.1-mini API** — powers the Panda assistant responses
+- **AR Foundation / ARCore** — Unity's cross-platform AR framework
 
 # Demo #
