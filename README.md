@@ -78,7 +78,6 @@ ARPoster/
 └── README.md
 ```
 
-# Fruit Info Display #
 
 # AI Chatbot 3D Panda #
 1. Navigate to the Panda scence by pressing the "Panda Assistant" button
