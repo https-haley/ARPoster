@@ -3,11 +3,67 @@
   "WorkspaceRootPath": "C:\\Users\\timmy\\ARPoster\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|c:\\users\\timmy\\arposter\\assets\\resources\\scripts\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|c:\\users\\timmy\\arposter\\assets\\resources\\scripts\\groceryaichat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\groceryaichat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|C:\\Users\\timmy\\ARPoster\\assets\\resources\\scripts\\pandacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\pandacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|C:\\Users\\timmy\\ARPoster\\assets\\resources\\scripts\\resetaronreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\resetaronreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|C:\\Users\\timmy\\ARPoster\\assets\\resources\\scripts\\cartpopupui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\cartpopupui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|C:\\Users\\timmy\\ARPoster\\assets\\resources\\scripts\\fruitinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\fruitinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|C:\\Users\\timmy\\ARPoster\\assets\\resources\\scripts\\addedcartmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\addedcartmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|C:\\Users\\timmy\\ARPoster\\assets\\resources\\scripts\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|C:\\Users\\timmy\\ARPoster\\assets\\resources\\scripts\\placeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\placeobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timmy\\ARPoster\\Library\\PackageCache\\com.unity.xr.arfoundation@5.2.2\\Runtime\\ARFoundation\\ARTrackedImageManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.arfoundation@5.2.2\\Runtime\\ARFoundation\\ARTrackedImageManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|C:\\Users\\timmy\\ARPoster\\assets\\resources\\scripts\\fruitinfodisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\fruitinfodisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timmy\\ARPoster\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timmy\\ARPoster\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\StandaloneInputModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\StandaloneInputModule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|C:\\Users\\timmy\\ARPoster\\assets\\resources\\scripts\\fruitspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\fruitspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timmy\\ARPoster\\Library\\PackageCache\\com.unity.xr.arfoundation@5.2.2\\Runtime\\ARFoundation\\ARInputManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.arfoundation@5.2.2\\Runtime\\ARFoundation\\ARInputManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|C:\\Users\\timmy\\ARPoster\\assets\\resources\\scripts\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\sceneswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|c:\\users\\timmy\\arposter\\assets\\resources\\scripts\\pandaarplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|C:\\Users\\timmy\\ARPoster\\assets\\resources\\scripts\\pandaarplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\pandaarplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,8 +71,8 @@
       "RelativeMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\lookatcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|C:\\Users\\timmy\\ARPoster\\assets\\resources\\scripts\\groceryaichat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5E6182-0CF4-7107-3A54-64AC70023DC9}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\scripts\\groceryaichat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\CartUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Resources\\Scripts\\CartUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +82,204 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PandaController.cs",
+              "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\PandaController.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\PandaController.cs",
+              "ToolTip": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\PandaController.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\PandaController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T23:20:34.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResetAROnReturn.cs",
+              "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\ResetAROnReturn.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\ResetAROnReturn.cs",
+              "ToolTip": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\ResetAROnReturn.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\ResetAROnReturn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T10:26:12.006Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GroceryAIChat.cs",
+              "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\GroceryAIChat.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\GroceryAIChat.cs",
+              "ToolTip": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\GroceryAIChat.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\GroceryAIChat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T18:46:45.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartPopupUI.cs",
+              "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\CartPopupUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\CartPopupUI.cs",
+              "ToolTip": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\CartPopupUI.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\CartPopupUI.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T08:37:26.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartManager.cs",
+              "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\CartManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\CartManager.cs",
+              "ToolTip": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\CartManager.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\CartManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T07:53:55.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FruitInfo.cs",
+              "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\FruitInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\FruitInfo.cs",
+              "ToolTip": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\FruitInfo.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\FruitInfo.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAQwFkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T07:08:26.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlaceObject.cs",
+              "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\PlaceObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\PlaceObject.cs",
+              "ToolTip": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\PlaceObject.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\PlaceObject.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T07:03:06.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ARTrackedImageManager.cs",
+              "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Library\\PackageCache\\com.unity.xr.arfoundation@5.2.2\\Runtime\\ARFoundation\\ARTrackedImageManager.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.arfoundation@5.2.2\\Runtime\\ARFoundation\\ARTrackedImageManager.cs",
+              "ToolTip": "C:\\Users\\timmy\\ARPoster\\Library\\PackageCache\\com.unity.xr.arfoundation@5.2.2\\Runtime\\ARFoundation\\ARTrackedImageManager.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.arfoundation@5.2.2\\Runtime\\ARFoundation\\ARTrackedImageManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T07:00:19.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartUI.cs",
+              "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\CartUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\CartUI.cs",
+              "ToolTip": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\CartUI.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\CartUI.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T08:19:00.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddedCartMessage.cs",
+              "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\AddedCartMessage.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\AddedCartMessage.cs",
+              "ToolTip": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\AddedCartMessage.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\AddedCartMessage.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:16:29.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FruitInfoDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\FruitInfoDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\FruitInfoDisplay.cs",
+              "ToolTip": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\FruitInfoDisplay.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\FruitInfoDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T06:59:42.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StandaloneInputModule.cs",
+              "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\StandaloneInputModule.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\StandaloneInputModule.cs",
+              "ToolTip": "C:\\Users\\timmy\\ARPoster\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\StandaloneInputModule.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\InputModules\\StandaloneInputModule.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T06:57:06.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FruitSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\FruitSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\FruitSpawner.cs",
+              "ToolTip": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\FruitSpawner.cs",
+              "RelativeToolTip": "Assets\\Resources\\Scripts\\FruitSpawner.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T06:53:15.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ARInputManager.cs",
+              "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Library\\PackageCache\\com.unity.xr.arfoundation@5.2.2\\Runtime\\ARFoundation\\ARInputManager.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.arfoundation@5.2.2\\Runtime\\ARFoundation\\ARInputManager.cs",
+              "ToolTip": "C:\\Users\\timmy\\ARPoster\\Library\\PackageCache\\com.unity.xr.arfoundation@5.2.2\\Runtime\\ARFoundation\\ARInputManager.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.arfoundation@5.2.2\\Runtime\\ARFoundation\\ARInputManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T06:43:58.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventSystem.cs",
+              "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "ToolTip": "C:\\Users\\timmy\\ARPoster\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T06:39:09.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "SceneSwitcher.cs",
               "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\SceneSwitcher.cs",
               "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\SceneSwitcher.cs",
               "ToolTip": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\SceneSwitcher.cs",
               "RelativeToolTip": "Assets\\Resources\\Scripts\\SceneSwitcher.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T21:30:25.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T21:30:25.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "PandaARPlacer.cs",
               "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\PandaARPlacer.cs",
               "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\PandaARPlacer.cs",
@@ -51,12 +287,11 @@
               "RelativeToolTip": "Assets\\Resources\\Scripts\\PandaARPlacer.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAmwDoAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T20:39:31.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-05T20:39:31.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "LookAtCamera.cs",
               "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Assets\\LookAtCamera.cs",
               "RelativeDocumentMoniker": "Assets\\LookAtCamera.cs",
@@ -65,18 +300,6 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAA5wBcAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T20:09:22.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GroceryAIChat.cs",
-              "DocumentMoniker": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\GroceryAIChat.cs",
-              "RelativeDocumentMoniker": "Assets\\Resources\\Scripts\\GroceryAIChat.cs",
-              "ToolTip": "C:\\Users\\timmy\\ARPoster\\Assets\\Resources\\Scripts\\GroceryAIChat.cs",
-              "RelativeToolTip": "Assets\\Resources\\Scripts\\GroceryAIChat.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAkwDQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T18:46:45.063Z"
             }
           ]
         }

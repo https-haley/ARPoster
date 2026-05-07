@@ -41,7 +41,7 @@ public class PandaController : MonoBehaviour
 
         animator = GetComponent<Animator>();
 
-        robotOutput.text = "Hi! I'm your grocery store assistant. Press the mic button and ask me something.";
+        robotOutput.text = robotOutput.text = "Hi! I'm Panda, your AR fruit poster assistant. Ask me about the fruits!";
 
         if (voiceTest.isIntialised())
         {
