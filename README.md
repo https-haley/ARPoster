@@ -51,6 +51,32 @@ An interactive Augmented Reality (AR) experience built in Unity using AR Foundat
 # AR Fruit Poster #
 <img width="2304" height="2880" alt="University of Arkansas (1)" src="https://github.com/user-attachments/assets/1b0be79e-9af3-4c98-8db9-3655fe42501c" />
 
+## Project Structure
+
+```
+ARPoster/
+├── Assets/
+│   ├── Editor/                       ← Editor utility scripts
+│   ├── ExtensionsAssets/             ← Additional asset extensions
+│   ├── Humanoid Panda/               ← 3D panda model + animations
+│   ├── Models/                       ← 3D fruit models
+│   ├── Plugins/                      ← Android .jar plugins (STT/TTS)
+│   ├── Resources/                    ← Prefabs, scripts, image library
+│   ├── Scenes/                       ← SampleScene, FruitDetailScene, PandaScene
+│   ├── Settings/                     ← URP render pipeline settings
+│   ├── TextMesh Pro/                 ← TMP font and shader assets
+│   ├── TutorialInfo/                 ← Unity tutorial assets
+│   ├── XR/                           ← XR plugin settings
+│   ├── LookAtCamera.cs               ← Makes objects face the camera
+│   ├── MyMixer.mixer                 ← Audio mixer
+│   └── New Animator Controller       ← Animation controller
+├── FruitImages/                      ← Fruit poster reference images
+├── FruitModels/                      ← Source fruit model files
+├── Packages/                         ← Unity package dependencies
+├── ProjectSettings/                  ← Unity project configuration
+├── ARPoster.png                      ← AR tracking poster image
+└── README.md
+```
 
 # Fruit Info Display #
 
