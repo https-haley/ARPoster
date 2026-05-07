@@ -91,5 +91,3 @@ ARPoster/
 - **3 Android .jar plugins** — custom speech recognition and text-to-speech bridge
 - **OpenAI GPT-4.1-mini API** — powers the Panda assistant responses
 - **AR Foundation / ARCore** — Unity's cross-platform AR framework
-
-# Demo #
