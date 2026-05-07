@@ -17,6 +17,10 @@ An interactive Augmented Reality (AR) experience built in Unity using AR Foundat
 2. Watch fruits appear in 3D
 3. Tap a fruit to display its name, price, and health benefits
 4. Observe animations (rotation, floating, pop-up effects)
+5. Hold a fruit it bring up price and nutrition facts
+6. Tap on the fruit to add to cart
+  - Click on the cart in the top right to view cart
+8. Click 'Panda Assistant' to talk to an AI Chatbot
 
 # Key Scripts #
 | Script | Description |
